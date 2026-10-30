@@ -46,4 +46,4 @@ Academic project exploring local language models and retrieval-augmented generat
 ## Contact
 
 - **GitHub:** [OzielBezerraDeLima](https://github.com/OzielBezerraDeLima)
-- **LinkedIn:** Link to be added
+- **LinkedIn:** [OzielBezerraDeLima](https://br.linkedin.com/in/ozielbezerradelima)
