@@ -22,7 +22,7 @@ Full-stack application for querying scientific papers using local language model
 
 **Technologies:** Python, FastAPI, React, Ollama, ChromaDB, RAGAS.
 
-[View repository](https://github.com/OzielLima/Trabalho1-ODS2)
+[View repository](https://github.com/OzielBezerraDeLima/academic-paper-rag)
 
 ### Brazilian Sign Language Translation — Undergraduate Research
 
